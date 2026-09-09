@@ -13,10 +13,10 @@ This project presents the modeling and closed-loop control of a Switched Relucta
 ![SRM Model Architecture](srm_block_diagram.png)
 
 ## Parameters & Initialization
-![Initialization Parameters](init_params.m.png)
+![Initialization Parameters](srm_init_params.m.png)
 
 ## How to Run
 1. Open MATLAB (R2024b or later with Simscape Electrical).
 2. Ensure parameters from `init_params.m.png` are loaded in the MATLAB Workspace.
 3. Open and run `SRM_Drive_Model.slx`.
-4.
+  
